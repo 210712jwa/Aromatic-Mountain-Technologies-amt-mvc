@@ -1,0 +1,64 @@
+h1
+{
+	/*border-top: 2px solid purple;*/
+	border-bottom: 2px solid purple;
+	border: 2px solid purple;
+	background-color: rgba(200,0,200, 0.4);
+	font-size: 72px;
+	font-family: "Calibri";
+	font-weight: bold;
+	width: 1000px;
+	height: 85px;
+	position: center;
+	margin-left: auto;
+	margin-right: auto
+}
+
+.title
+{
+	justify-content: center;
+	display: flex;
+	flex-wrap: wrap;
+	border-radius: 15%;
+}
+
+.subtitle
+{
+	text-align: center;
+	font-weight: bold;
+	font-size: 32px;
+	border: 2px dotted purple;
+	background-color: rgba(200,0,200, 0.1);
+}
+body
+{
+	background-color: gray;
+}
+
+button
+{
+	justify-content: center;
+	margin: 20px;
+	text-align: center;
+	display: flex;
+	flex-wrap: wrap;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+	font-size: 48px;
+	background-color: white;
+	border: 5px solid black;
+}
+
+input
+{
+	justify-content: center;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 36px;
+}
+
+li
+{
+	font-size: 32px;
+} 
